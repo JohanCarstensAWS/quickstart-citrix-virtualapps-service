@@ -296,7 +296,7 @@ Mappings:
       WS2016FULLBASE: ami-015905f77c669d9ea
     us-east-1:
       WS2012R2: ami-079fe16082fb837c5
-      WS2016FULLBASE: ami-032e26fff3bb717f3
+      WS2016FULLBASE: ami-0d39d14f5f1a82d2b
     us-east-2:
       WS2012R2: ami-0f5f950bd81ec96e0
       WS2016FULLBASE: ami-0db153619de617953
